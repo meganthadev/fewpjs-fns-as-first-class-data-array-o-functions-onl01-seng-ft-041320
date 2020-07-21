@@ -1,6 +1,4 @@
-const routine = [ 
-  
-function wakeDog(dogName, dogBreed) {
+const wakeDog = function wakeDog(dogName, dogBreed) {
   console.log("Wake ${dogName} the ${dogBreed}");
   return wakeDog;
 }
