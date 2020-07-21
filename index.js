@@ -1,4 +1,4 @@
-Array = [ function wakeDog(dogName, dogBreed) {
+const routine = [ function wakeDog(dogName, dogBreed) {
   console.log("Wake ${dogName} the ${dogBreed}");
   return wakeDog;
 }
@@ -27,6 +27,6 @@ function unleashDog(dogName, dogBreed) {
   return wakeDog;
  }
 ]
-function exercieDog(dogName, dogBreed) {
+function exerciseDog(dogName, dogBreed) {
   
 }
