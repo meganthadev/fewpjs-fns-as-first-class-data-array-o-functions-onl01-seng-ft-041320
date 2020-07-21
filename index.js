@@ -18,7 +18,11 @@ function throwFrisbee(dogName, dogBreed) {
   console.log("Wake ${dogName} the ${dogBreed}");
   return wakeDog;
 }
-function wakeDog(dogName, dogBreed) {
+function walkHome(dogName, dogBreed) {
+  console.log("Wake ${dogName} the ${dogBreed}");
+  return wakeDog;
+}
+function walkHome(dogName, dogBreed) {
   console.log("Wake ${dogName} the ${dogBreed}");
   return wakeDog;
 }
