@@ -1,4 +1,4 @@
-function wakeDog(dogName, dogBreed) {
+Array = [ function wakeDog(dogName, dogBreed) {
   console.log("Wake ${dogName} the ${dogBreed}");
   return wakeDog;
 }
@@ -26,7 +26,7 @@ function unleashDog(dogName, dogBreed) {
   console.log('Unleash ${dogName} the ${dogBreed}');
   return wakeDog;
 }
-
+]
 function exercieDog(dogName, dogBreed) {
   
 }
